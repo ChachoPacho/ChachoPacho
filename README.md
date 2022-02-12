@@ -6,7 +6,7 @@
 
 &nbsp;
 
-**Talking about Professional Stuffs:**
+**Talking about Personal Stuffs:**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -15,6 +15,7 @@
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - :coffee: Fun-Fact: I call myself developer but I don't even like coffe;
+- :hearts: Kind people are my kinda people;
 
 **Languages and Tools:** 
 
@@ -26,37 +27,27 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->  
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
   
   <br />
 
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/></code>
-  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" /></code>
-
-  <br />
-  
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" /></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" /></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
-  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
-  
+
   <br />
   
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
+  
+  <br />
 
 </p>
-
-## More About Me 🙇‍♂️:
-
-- :hearts: Kind people are my kinda people.
-:100: Radical for Jesus
-:star: Uniquely naive tho independent
-:apple: Beginner mindset (**open to learning**)
-:sparkles: Child at heart (**i see the world as magical**)
-
 
 >*A project with nothing to create or improve is not the perfect project, it is the dumbest thing you could have thought of.*
