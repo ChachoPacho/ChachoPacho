@@ -49,16 +49,13 @@
 </p>
 
 <p>
-  <img width="45%" align="left" src='https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg'>
+  <img width="50%" align="left" src='https://c.tenor.com/I1zAcHrxfhwAAAAC/this-isnt-professional-this-is-personal.gif'>
   <strong>More About Me 🙇‍♂️</strong>
 </p>
 
-&nbsp; ♥️ Kind people are my kinda people;
-
-&nbsp; 🌟 Hobbies: music 🎵, puzzles ♟️, code 💻, cinema 🎦 & read 📚;
-
-&nbsp; ☕ Fun-Fact: I'm a developer who doesn't like coffee;
-
->*"A project with nothing to create or improve is not the perfect project, it is the dumbest thing you could have thought of."*
+- ♥️ Kind people are my kinda people;
+- 🌟 Hobbies: music 🎵, puzzles ♟️, code 💻, cinema 🎦 & read 📚;
+- ☕ Fun-Fact: I'm a developer who doesn't like coffee;
+- >*"A project with nothing to create or improve is not the perfect project, it is the dumbest thing you could have thought of."*
 
 
