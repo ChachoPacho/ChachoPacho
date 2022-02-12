@@ -4,29 +4,27 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gonzalobordon02/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:bordonnet@hotmail.com)
 
-&nbsp;
-
-**Talking about Personal Stuffs:**
+**Talking about Professional Stuffs:**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [CEUT](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin; 
+
+- 👨🏽‍💻 Currently working on [CEUT](https://github.com/jjsanmartino03/ceut);
+- 🧑‍🎓 Studying ___Computer Science___ at [FaMAF](https://www.famaf.unc.edu.ar/);
+- 🌱 Currently learning Kotlin; 
+- 🔭 I’m interested in ___Data Science___, ___Big Data___ & ___Servers___;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
-- :coffee: Fun-Fact: I call myself developer but I don't even like coffe;
-- :hearts: Kind people are my kinda people;
+
+&nbsp;
 
 **Languages and Tools:** 
 
 <p>
   <a href="https://github.com/ChachoPacho">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=ChachoPacho&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="ChachoPacho's github stats" src="https://github-readme-stats.vercel.app/api?username=ChachoPacho&show_icons=true&hide_border=true" />
   </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->  
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></code>
@@ -50,4 +48,12 @@
 
 </p>
 
->*A project with nothing to create or improve is not the perfect project, it is the dumbest thing you could have thought of.*
+<p>
+  <img width="40%" align="left" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
+  <strong>More About Me 🙇‍♂️</strong>
+</p>
+
+- ♥️ Kind people are my kinda people;
+- 🌟 Hobbies: music 🎵, puzzles ♟️, games 🎮, code 💻, cinema 🎦 & read 📚;
+- ☕ Fun-Fact: I call myself developer but I don't even like coffe;
+- >*"A project with nothing to create or improve is not the perfect project, it is the dumbest thing you could have thought of."*
