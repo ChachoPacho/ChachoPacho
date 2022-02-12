@@ -13,7 +13,7 @@
 - 🧑‍🎓 Studying ___Computer Science___ at [FaMAF](https://www.famaf.unc.edu.ar/);
 - 🌱 Currently learning Kotlin; 
 - 🔭 I’m interested in ___Data Science___, ___Big Data___ & ___Servers___;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🤔 I’m looking for help with __UML__ 😭;
 - 💬 Ask me about anything, I am happy to help;
 
 &nbsp;
@@ -49,11 +49,16 @@
 </p>
 
 <p>
-  <img width="40%" align="left" src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif'>
+  <img width="45%" align="left" src='https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg'>
   <strong>More About Me 🙇‍♂️</strong>
 </p>
 
-- ♥️ Kind people are my kinda people;
-- 🌟 Hobbies: music 🎵, puzzles ♟️, games 🎮, code 💻, cinema 🎦 & read 📚;
-- ☕ Fun-Fact: I call myself developer but I don't even like coffe;
-- >*"A project with nothing to create or improve is not the perfect project, it is the dumbest thing you could have thought of."*
+&nbsp; ♥️ Kind people are my kinda people;
+
+&nbsp; 🌟 Hobbies: music 🎵, puzzles ♟️, code 💻, cinema 🎦 & read 📚;
+
+&nbsp; ☕ Fun-Fact: I'm a developer who doesn't like coffee;
+
+>*"A project with nothing to create or improve is not the perfect project, it is the dumbest thing you could have thought of."*
+
+
