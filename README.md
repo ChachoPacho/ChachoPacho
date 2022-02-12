@@ -43,6 +43,7 @@
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></code>
   <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
+  <code><img width="7.5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /></code>
   
   <br />
 
