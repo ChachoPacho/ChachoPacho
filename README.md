@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 Currently working on [CEUT](https://github.com/jjsanmartino03/ceut);
 - 🧑‍🎓 Studying ___Computer Science___ at [FaMAF](https://www.famaf.unc.edu.ar/);
-- 🌱 Currently learning Kotlin; 
+- 🌱 Currently learning Flutter; 
 - 🔭 I’m interested in ___Data Science___, ___Big Data___ & ___Servers___;
 - 🤔 I’m looking for help with __UML__ 😭;
 - 💬 Ask me about anything, I am happy to help;
